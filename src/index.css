@@ -66,3 +66,8 @@ li{
 .text{
   flex: 1;
 }
+
+.delete-button, .move-button{
+  padding: 6px 10px;
+  margin-left: 2px;
+}
